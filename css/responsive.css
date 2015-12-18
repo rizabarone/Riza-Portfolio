@@ -16,11 +16,12 @@ TWO COLUMN LAYOUT
   
   #gallery li {
     width: 28.3333%;
+    min-height:250px;
   }
   
-  #gallery li:nth-child(4n) {
+  /*#gallery li:nth-child(4n) {
     clear: left;
-}
+} */
   
    /******************** 
 PAGE:ABOUT
